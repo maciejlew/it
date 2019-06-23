@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.reviews.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Reviews" }}</h2>
+    <ul class="post-list">
+      {%- for review in site.reviews -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ review.url | relative_url }}">
+            {{ review.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ review.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
