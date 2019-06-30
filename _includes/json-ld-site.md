@@ -2,7 +2,7 @@
 {% if site.posts %}
     {% for post in site.posts %}
         {% if post.date %}
-            {% assign site_modified = post.date | date: "%Y-%m-%d" %}
+            {% assign site_modified = post.date %}
             {% break %}
         {% endif %}
     {% endfor %}
@@ -10,7 +10,7 @@
 {% if site.pages %}
     {% for page in site.pages %}
         {% if page.date and page.date > site_modified %}
-            {% assign site_modified = page.date | date: "%Y-%m-%d" %}
+            {% assign site_modified = page.date %}
         {% endif %}
     {% endfor %}
 {% endif %}
@@ -20,13 +20,13 @@
         "@type": "WebSite",
         {% if site.name %}"name": "{{ site.name }}",{% endif %}
         {% if site.description %}"description": "{{ site.description }}",{% endif %}
-        {% if site.url %}"url": "{{ site.url }}",{% endif %}
+        {% if site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
         {% if site.author %}"author": 
             {
                 "@type": "Person",
                 "name": "{{ site.author }}"
             },{% endif %}
-        {% if site.date %}"dateCreated": "{{ site.date }}",{% endif %}
-        "dateModified": "{{ site_modified }}"
+        {% if site.date %}"dateCreated": "{{ site.date | date: "%Y-%m-%d" }}",{% endif %}
+        "dateModified": "{{ site_modified | date: "%Y-%m-%d" }}"
     }
 </script>
