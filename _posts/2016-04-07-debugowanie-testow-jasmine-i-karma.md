@@ -62,3 +62,5 @@ przy pomocy FireBuga co się dzieje w kodzie. Ponowne wykonanie testów polega n
 odświeżeniu strony w przeglądarce. Dzięki temu kod testów można zatrzymać na
 ustawionych w FireBugu punktach wstrzymania i podejrzeć co też kryje się w zmiennych.
 
+
+{% include acronyms.md %}

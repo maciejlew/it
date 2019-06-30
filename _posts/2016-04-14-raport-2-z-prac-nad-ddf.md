@@ -70,3 +70,5 @@ interfejs pozwalający na wybór zestawu leków, popracować nad komunikacją ap
 systemem plików na telefonie.
 
 
+
+{% include acronyms.md %}

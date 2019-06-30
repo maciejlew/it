@@ -71,3 +71,5 @@ Pokazane w tym wpisie przykłady są zaczerpnięte z [aplikacji DDS][2].
 [1]: /2017/03/28/pistache-i-rapidjson-prosty-obiekt-json-w-odpowiedzi.html
 [2]: https://github.com/maciejlew/drug-dose-server
 
+
+{% include acronyms.md %}

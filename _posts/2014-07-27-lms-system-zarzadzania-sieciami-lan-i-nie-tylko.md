@@ -125,3 +125,5 @@ uruchomienie automatycznego blokowania klienta po przekroczeniu wskazanego
 limitu zadłużenia. LMS dostarcza w tym celu **prosty skrypt wykonujący całą 
 pracę** za nas.
 
+
+{% include acronyms.md %}

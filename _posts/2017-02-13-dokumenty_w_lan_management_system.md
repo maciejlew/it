@@ -127,3 +127,5 @@ systemu pluginów. W ten sposób podczas tworzenia nowego dokumentu możesz
 podać dodatkowe dane które nie znajdują się w bazie danych lub stworzyć 
 kilka ścieżek tworzenia dokumentu.
 
+
+{% include acronyms.md %}

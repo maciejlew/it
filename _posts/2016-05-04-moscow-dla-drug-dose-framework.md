@@ -56,3 +56,5 @@ postępu prac nad projektem.
 
 [1]: /2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
 
+
+{% include acronyms.md %}

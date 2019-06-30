@@ -82,3 +82,5 @@ funkcji liniowej.
 Przedstawiony kod można zobaczyć także w repozytorium aplikacji konkursowej
 [Drug Dose Framework](https://github.com/maciejlew/drug-dose-framework).
 
+
+{% include acronyms.md %}

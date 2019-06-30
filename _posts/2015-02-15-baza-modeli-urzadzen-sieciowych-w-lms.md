@@ -47,3 +47,5 @@ Poniżej zamieszczam kilka zrzutów ekranu pokazujących nową funkcjonalność 
     </div>
 
 </div>
+
+{% include acronyms.md %}

@@ -73,3 +73,5 @@ chwil. Zwróci Ci się to!
 [2]: http://semver.org/
 [3]: /2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
 
+
+{% include acronyms.md %}

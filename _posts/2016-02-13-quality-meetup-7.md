@@ -52,3 +52,5 @@ architekturze. Jest to ciekawe podejście które zamierzam przetestować także 
 moich projektach. Więcej na ten temat można znaleźć na 
 [blogu autora](http://testdetective.com/selenium-grid-with-docker/).
 
+
+{% include acronyms.md %}

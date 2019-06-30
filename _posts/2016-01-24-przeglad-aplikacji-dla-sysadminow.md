@@ -25,3 +25,5 @@ stronie coś dla siebie. Wykaz nie obejmuje znanej Ci aplikacji? Nie czekaj -
 zgłoś ją w formularzu dostępnym na ww. stronie. Autor strony bardzo chętnie dopisuje 
 zgłoszone propozycje do listy.
 
+
+{% include acronyms.md %}

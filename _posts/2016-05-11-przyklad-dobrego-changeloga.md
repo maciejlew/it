@@ -59,3 +59,5 @@ Zmiany w DDF można także śledzić w jego [repozytorium na GitHubie][4].
 [3]: /2016/05/04/moscow-dla-drug-dose-framework.html
 [4]: https://github.com/maciejlew/drug-dose-framework
 
+
+{% include acronyms.md %}

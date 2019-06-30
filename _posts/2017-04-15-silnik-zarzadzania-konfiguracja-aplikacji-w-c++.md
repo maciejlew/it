@@ -83,3 +83,5 @@ Pokazane w tym wpisie przykłady są zaczerpnięte z [aplikacji DDS][3].
 [2]: https://github.com/Foaly/SettingsParser
 [3]: https://github.com/maciejlew/drug-dose-server
 
+
+{% include acronyms.md %}

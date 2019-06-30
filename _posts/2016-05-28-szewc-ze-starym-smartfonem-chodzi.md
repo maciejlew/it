@@ -101,3 +101,5 @@ przygotowane do debugowania aplikacji.
 [2]: /2016/05/04/moscow-dla-drug-dose-framework.html
 [3]: /2016/05/18/code-coverage-w-karma.html
 
+
+{% include acronyms.md %}

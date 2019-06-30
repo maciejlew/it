@@ -47,3 +47,5 @@ i inne zmiany [pobierając wersję *"nightly"* ze strony producenta][3].
 [2]: http://www.php-fig.org/psr/
 [3]: http://bits.netbeans.org/dev/nightly/
 
+
+{% include acronyms.md %}

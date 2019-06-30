@@ -108,3 +108,5 @@ na pewno pomoże w utrzymaniu kodu wysokiej jakości.
 Więcej przykładów można znaleźć w kodzie źródłowym mojej aplikacji konkursowej
 [Drug Dose Framework](https://github.com/maciejlew/drug-dose-framework).
 
+
+{% include acronyms.md %}

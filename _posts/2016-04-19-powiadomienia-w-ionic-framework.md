@@ -95,3 +95,5 @@ zajrzeć do [repozytorium DDF](https://github.com/maciejlew/drug-dose-framework)
 gdzie ostatnio udało mi się zaimplementować $ionicModal do powiadamiania użytkownika
 o wyniku obliczeń lub o zaistniałym wyjątku.
 
+
+{% include acronyms.md %}

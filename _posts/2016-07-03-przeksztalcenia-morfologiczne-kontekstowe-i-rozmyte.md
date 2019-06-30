@@ -361,3 +361,5 @@ Zobacz także:
 [2]: /2016/08/06/wplyw-wstepnej-filtracji-na-segmentacje-wododzialowa.html
 
 
+
+{% include acronyms.md %}

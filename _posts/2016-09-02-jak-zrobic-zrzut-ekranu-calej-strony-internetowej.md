@@ -48,3 +48,5 @@ Windows, jak i Linuks. Ponad to nie wymaga ono instalowania dodatkowych narzędz
 gdy działamy na systemie już wyposażonym w FF, co może być kluczowe gdy nie mamy
 odpowiednich uprawnień by instalować dodatkowe oprogramowanie na danym systemie.
 
+
+{% include acronyms.md %}

@@ -117,3 +117,5 @@ Zobacz także:
 * [SpreadIT 2015 - relacja]({{site.url}}/2015/11/22/spreadit-2015-relacja.html)
 
 
+
+{% include acronyms.md %}

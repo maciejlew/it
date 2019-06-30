@@ -50,3 +50,5 @@ Kolejnym krokiem, po instalacji podstawowych składników systemu, jest instalac
 Instalacja Debiana jest prosta. O ile instalujemy według utartych schematów. Jeśli zaczynamy kombinować szukając optymalizacji wydajności, poprawy bezpieczeństwa, instalujemy RAID oraz LVM, to proces instalacji znacznie się komplikuje i jej czas wydłuża. Opisywana tu instalacja zajęła mi kilka wieczorów i wymagała kilkunastu ponownych prób. Mimo wszystko Debian jako dystrybucja Linuksa jest, moim zdaniem, najlepszym wyborem zarówno na stacje robocze jak i serwery. Polecam ją każdemu kto lubi się uczyć, nie boi się popełniać błędów i ma ambicje poznać swój system od podszewki, choć czasem może on doprowadzić człowieka do szaleństwa.
 
 
+
+{% include acronyms.md %}

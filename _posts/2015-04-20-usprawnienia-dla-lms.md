@@ -39,3 +39,4 @@ Obecnie pracuję nad:
  * Pobieranie informacji z serwera pocztowego czy FV została wysłana do klienta i prezentacja tejże w LMS;
  * Lista kończących się umów, powiadamianie BOK o kończących się umowach;
  * Lista kończących się zobowiązań, powiadamianie BOK o kończących się zobowiązaniach.
+{% include acronyms.md %}

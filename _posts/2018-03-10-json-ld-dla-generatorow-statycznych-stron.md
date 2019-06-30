@@ -34,3 +34,5 @@ Skrypty publikuję na licencji MIT - możesz je śmiało wykorzystać na swoim b
 [2]: https://sculpin.io/
 [3]: https://github.com/maciejlew/jekyll-json-ld
 [4]: https://github.com/maciejlew/sculpin-json-ld
+
+{% include acronyms.md %}

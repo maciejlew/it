@@ -29,3 +29,5 @@ każdy może dołączyć. Myślę, że takie działania pozwolą o wiele łatwie
 podzielić się informacjami o LMS, zaraportować istniejące problemy lub zgłosić
 potrzebę dodania czegoś nowego do LMS.
 
+
+{% include acronyms.md %}

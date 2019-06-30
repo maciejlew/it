@@ -144,3 +144,5 @@ zaimplementowałem w podany wyżej sposób I18N.
 [2]: http://ionicframework.com/docs/api/directive/ionNavView/
 [3]: https://github.com/maciejlew/drug-dose-framework
 
+
+{% include acronyms.md %}

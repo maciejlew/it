@@ -68,3 +68,5 @@ na rozwiązanie.
 [4]: https://github.com/rubenv/angular-gettext/issues/226
 
 
+
+{% include acronyms.md %}

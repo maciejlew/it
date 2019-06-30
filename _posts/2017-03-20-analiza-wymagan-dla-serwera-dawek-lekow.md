@@ -65,3 +65,4 @@ Tak. Wszystko będzie [za darmo do pobrania, zmodyfikowania][5] i wykorzystania.
 [3]: /2017/03/14/pistacja.html
 [4]: /2016/03/12/format-opisu-lekow-w-ddf.html
 [5]: https://github.com/maciejlew/drug-dose-server
+{% include acronyms.md %}

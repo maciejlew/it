@@ -153,3 +153,5 @@ i pomysły na dalszy rozwój DDF!
 [11]: img/DSP2016/ddf-code-coverage-1.png
 [12]: img/DSP2016/icon.png
 
+
+{% include acronyms.md %}

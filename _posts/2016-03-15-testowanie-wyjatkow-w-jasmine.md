@@ -67,3 +67,5 @@ Więcej przykładów testowania wyjątków w Jasmine można zobaczyć przegląda
 [repozytorium projektu DDF](https://github.com/maciejlew/drug-dose-framework), 
 np. [test modelu dawki leku](https://github.com/maciejlew/drug-dose-framework/blob/master/test/spec/DoseSpec.js).
 
+
+{% include acronyms.md %}

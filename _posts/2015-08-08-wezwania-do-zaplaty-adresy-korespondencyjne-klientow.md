@@ -27,3 +27,5 @@ korespondencyjne mają pierwszeństwo nad domyślnym adresem klienta.
 Osoby które już wcześniej nabyły u mnie wspomniane szablony, a chciały by rozszerzyć
 ich możliwości o wspomnianą funkcję, mogą uzyskać aktualizację kontaktując się ze mną.
 
+
+{% include acronyms.md %}

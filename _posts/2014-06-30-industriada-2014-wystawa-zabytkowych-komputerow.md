@@ -180,3 +180,5 @@ stracić trochę czasu grając w niezapomniane Mario lub PacMan.
 
 </div>
 
+
+{% include acronyms.md %}

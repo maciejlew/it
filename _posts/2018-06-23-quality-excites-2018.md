@@ -127,3 +127,5 @@ Tak więc, według Paula, współczesny tester powinien być wizjonerem, adwokat
 Tegoroczny, siódmy już Quality Excites, minął pod hasłami szukania nowej drogi dla testerów. Postępująca digitalizacja powinna
 pozwolić nabrać im wiatru w skrzydła, nie powinni oni także obawiać się szerzącej się automatyzacji testów. Całą konferencję oceniam dobrze i mam nadzieję że w przyszłym roku także utrzyma ona swój poziom.
 
+
+{% include acronyms.md %}

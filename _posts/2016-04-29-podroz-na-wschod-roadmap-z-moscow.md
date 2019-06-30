@@ -130,3 +130,5 @@ wymaganie uznano za spełnione.
 [2]: https://blog.ghost.org/markdown/
 [3]: http://keepachangelog.com/
 
+
+{% include acronyms.md %}

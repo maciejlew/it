@@ -122,3 +122,5 @@ Zobacz także:
 [3]: /2016/05/19/nie-uzywaj-string-number-boolean-jako-konstruktorow-w-javascript.html
 [4]: /2016/03/24/walidacja-w-akcesorach-javascript.html
 
+
+{% include acronyms.md %}

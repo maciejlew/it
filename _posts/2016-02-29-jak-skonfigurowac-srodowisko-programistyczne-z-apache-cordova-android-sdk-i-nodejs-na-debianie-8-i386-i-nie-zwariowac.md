@@ -127,3 +127,5 @@ podczas uruchamiania tego zestawu narzędzi popchnął mnie do refleksji, że cz
 procesorów 32 bitowych powoli mijają i niebawem, chcąc nie chcąc, trzeba będzie
 się przesiąść na ich następców, choćby po to aby odpalić sobie jakieś SDK...
 
+
+{% include acronyms.md %}

@@ -54,3 +54,5 @@ pobraną z pliku.
 [1]: /2017/03/25/front-controller-w-pistache.html
 
 
+
+{% include acronyms.md %}

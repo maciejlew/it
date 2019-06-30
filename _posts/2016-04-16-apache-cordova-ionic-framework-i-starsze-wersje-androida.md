@@ -107,3 +107,4 @@ oznacza, że możemy się już bawić naszą aplikacją na starszym telefonie.
 Przykładowy plik *config.xml* można znaleźć w [repozytorium DDF](https://github.com/maciejlew/drug-dose-framework).
 
 [1]: /2016/03/03/yeoman-idziemy-na-front.html
+{% include acronyms.md %}

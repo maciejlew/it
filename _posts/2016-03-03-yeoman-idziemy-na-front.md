@@ -80,3 +80,5 @@ frontem:
     cd drug-dose-framework
     yo ionic drug-dose-framework
 
+
+{% include acronyms.md %}

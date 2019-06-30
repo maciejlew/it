@@ -81,3 +81,5 @@ poświęcić jeden wieczór by móc spojrzeć na to co się robi z trochę inneg
 widzenia, poszerzyć wiedzę i kontakty. Do zobaczenia na kolejnym PHPers Silesia,
 mam nadzieję że już wkrótce.
 
+
+{% include acronyms.md %}

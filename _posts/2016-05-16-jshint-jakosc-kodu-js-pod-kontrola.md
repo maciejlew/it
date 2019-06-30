@@ -212,3 +212,5 @@ perspektywie niż tylko do momentu gdy klient zapłaci fakturę.
 [5]: /2016/03/07/zapach-jasminu.html
 [6]: https://github.com/jshint/jshint
 
+
+{% include acronyms.md %}

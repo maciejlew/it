@@ -131,3 +131,5 @@ może Tobie uda się im znaleźć jakieś dodatkowe zastosowanie. Oczywiście ni
 broni nas przed tym aby **rozszerzać wachlarz dostępnych typów błędów o własne,
 bardziej adekwatne do kontekstu typy wyjątków**.
 
+
+{% include acronyms.md %}

@@ -112,3 +112,5 @@ Nowy system LMSConfig został wprowadzony do głównej gałęzi LMS, stare metod
 zarządzania konfiguracją zostały zastąpione i niebawem zostaną całkowicie wycofane.
 **Zaleca się opieranie własnych rozszerzeń do LMS na nowym systemie LMSConfig.**
 
+
+{% include acronyms.md %}

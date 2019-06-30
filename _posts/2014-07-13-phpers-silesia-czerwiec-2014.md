@@ -114,3 +114,5 @@ umiejętności dzielenia się tymi dwojga.
 
 Mam nadzieję że spotkamy się na kolejnym PHPers Silesia!
 
+
+{% include acronyms.md %}

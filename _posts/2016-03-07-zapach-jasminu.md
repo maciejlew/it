@@ -48,3 +48,5 @@ do tej pory to:
 
 Zobaczymy co przyniesie jutro.
 
+
+{% include acronyms.md %}

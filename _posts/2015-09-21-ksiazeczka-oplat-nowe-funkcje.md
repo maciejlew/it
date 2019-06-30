@@ -35,3 +35,5 @@ zaczynają się od "transfer_forms_";
 Osoby które już wcześniej nabyły u mnie wspomniany szablon, a chciały by rozszerzyć
 jego możliwości o wspomnianą funkcję, mogą uzyskać aktualizację kontaktując się ze mną.
 
+
+{% include acronyms.md %}

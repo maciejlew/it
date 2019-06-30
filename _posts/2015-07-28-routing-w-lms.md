@@ -153,3 +153,5 @@ Podsumowując, routing w LMS przebiega następująco:
  5. manager pluginów gdy już nie ma więcej pluginów zwraca $jakas_zmienna do LMS
  6. LMS kontynuuje wykonywanie kodu z głównej ścieżki
 
+
+{% include acronyms.md %}

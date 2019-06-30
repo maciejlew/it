@@ -47,3 +47,4 @@ Obecnie pracuję nad:
  * Lista kończących się zobowiązań, powiadamianie BOK o kończących się zobowiązaniach;
  * Terminarz - rozbudowa systemu komentarzy;
  * Pobieranie informacji z SerwerSMS.
+{% include acronyms.md %}

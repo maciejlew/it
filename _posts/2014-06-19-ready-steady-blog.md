@@ -29,3 +29,4 @@ Strona ta jest więc hostowana na GitHub Pages, do publikowania wykorzystuję
 Jekyll, a widoczny tu szablon strony to zmodyfikowany szablon [block-log](https://github.com/anandubajith/block-log).
 
 Pierwsze wpisy już wkrótce...
+{% include acronyms.md %}

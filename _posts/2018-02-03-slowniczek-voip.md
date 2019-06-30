@@ -52,3 +52,5 @@ Przepracowałem trochę czasu nad rozwojem oprogramowania do zarządzania centra
 * W2F - Web To Fax
 
 Lista nie jest pełna, będzie sukcesywnie uzupełniana gdy tylko coś mi się przypomni. A może ty znasz jakiś akronim związany z VoIP którego tu jeszcze nie ma? Znasz? Napisz Nam o nim w komentarzu!
+
+{% include acronyms.md %}

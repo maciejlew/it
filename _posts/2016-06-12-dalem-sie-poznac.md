@@ -154,3 +154,5 @@ na bloga, [zapisujcie się na kanał RSS][11]!
 [12]: /2016/05/30/raport-3-z-prac-nad-ddf.html
 [13]: /2016/03/01/dam-sie-poznac.html
 
+
+{% include acronyms.md %}

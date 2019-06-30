@@ -45,3 +45,5 @@ Zobacz także:
 * [SpreadIT 2016 - relacja]({{site.url}}/2016/11/20/spreadit-2016-relacja.html)
 
 
+
+{% include acronyms.md %}

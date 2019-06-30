@@ -85,3 +85,5 @@ dużo mniej. Ilość przypadków testowych dla testów jednostkowych także spad
 [3]: https://github.com/maciejlew/drug-dose-framework
 [4]: /2016/05/18/code-coverage-w-karma.html
 
+
+{% include acronyms.md %}

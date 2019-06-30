@@ -68,3 +68,5 @@ poleceniem:
 Jeśli aplikacja była już wcześniej testowana na urządzeniu pomocne może okazać
 się wyczyszczenie cache aplikacji na urządzeniu.
 
+
+{% include acronyms.md %}

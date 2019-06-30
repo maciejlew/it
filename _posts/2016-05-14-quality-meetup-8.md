@@ -79,3 +79,5 @@ warsztatach już 25 czerwca. Zapisy niebawem. Bądźcie czujni!
 [3]: http://www.slideshare.net/FutureProcessing/micha-sajdak-testy-bezpieczestwa-teoria-a-praktyka
 [4]: https://qualityexcites.pl/
 
+
+{% include acronyms.md %}

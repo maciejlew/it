@@ -208,3 +208,5 @@ DDF. Jak to zrobiłem możesz
 W razie problemów napisz komentarz - postaram się pomóc.
 
 
+
+{% include acronyms.md %}

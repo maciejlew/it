@@ -73,3 +73,5 @@ To tyle na razie. W kolejnym tygodniu zamierzam wyspecyfikować przy pomocy
 diagramów UML działanie aplikacji oraz dokończyć model.
 
 
+
+{% include acronyms.md %}

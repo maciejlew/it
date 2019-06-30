@@ -55,3 +55,5 @@ kciuki.
 [2]: http://uczestnicy.dajsiepoznac.pl/profil/maciej-lew
 [3]: blog/tags/#DSP2017
 [4]: https://github.com/maciejlew/drug-dose-server
+
+{% include acronyms.md %}

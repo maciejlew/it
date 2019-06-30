@@ -38,3 +38,5 @@ w których zainteresowani mogą się wypowiedzieć:
 Jeśli jesteś zainteresowany i masz jakieś uwagi to [zapraszam na listę użytkowników
 LMS](http://lists.lms.org.pl/mailman/listinfo/lms) - to w jakim kierunku pójdzie 
 projekt może zależeć także od Ciebie!
+
+{% include acronyms.md %}

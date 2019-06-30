@@ -172,3 +172,5 @@ w numer builda mogę przejść do informacji o nim, a stamtąd do podglądu
 raportów wygenerowanych przez uruchomione pomocnicze narzędzia.
 
 
+
+{% include acronyms.md %}

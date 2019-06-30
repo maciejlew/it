@@ -107,3 +107,5 @@ indywidualnie, przekazując klientowi listę plusów i minusów każdego z rozwi
 Nie należy natomiast bezrefleksyjnie uznawać jednego, nawet popularnego i 
 wygodnego, rozwiązania za uniwersalną odpowiedź na każdy problem.
 
+
+{% include acronyms.md %}

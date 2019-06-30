@@ -107,3 +107,5 @@ kodu, oznaczając je symbolami *I (if path not taken)* lub *E (else path not tak
 [3]: img/DSP2016/karma-code-coverage-2.png
 [4]: img/DSP2016/karma-code-coverage-3.png
 
+
+{% include acronyms.md %}
