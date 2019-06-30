@@ -57,3 +57,5 @@ kciuki.
 [4]: https://github.com/maciejlew/drug-dose-server
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

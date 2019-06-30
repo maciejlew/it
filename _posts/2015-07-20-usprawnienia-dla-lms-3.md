@@ -37,3 +37,5 @@ Obecnie pracuję nad:
  * Pobieranie informacji z SerwerSMS.
  * Jednorazowe rabaty
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

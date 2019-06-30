@@ -155,3 +155,5 @@ i pomysły na dalszy rozwój DDF!
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -29,3 +29,5 @@ ich możliwości o wspomnianą funkcję, mogą uzyskać aktualizację kontaktuj�
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

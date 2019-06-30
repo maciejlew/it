@@ -70,3 +70,5 @@ się wyczyszczenie cache aplikacji na urządzeniu.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

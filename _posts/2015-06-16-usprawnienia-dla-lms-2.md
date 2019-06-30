@@ -48,3 +48,5 @@ Obecnie pracuję nad:
  * Terminarz - rozbudowa systemu komentarzy;
  * Pobieranie informacji z SerwerSMS.
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

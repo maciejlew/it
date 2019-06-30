@@ -75,3 +75,5 @@ chwil. Zwróci Ci się to!
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -64,3 +64,5 @@ ustawionych w FireBugu punktach wstrzymania i podejrzeć co też kryje się w zm
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

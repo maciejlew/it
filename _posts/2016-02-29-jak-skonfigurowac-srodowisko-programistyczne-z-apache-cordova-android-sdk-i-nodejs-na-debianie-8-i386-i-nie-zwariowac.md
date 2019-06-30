@@ -129,3 +129,5 @@ się przesiąść na ich następców, choćby po to aby odpalić sobie jakieś S
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

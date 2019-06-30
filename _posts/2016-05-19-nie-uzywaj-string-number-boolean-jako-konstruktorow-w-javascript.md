@@ -87,3 +87,5 @@ dużo mniej. Ilość przypadków testowych dla testów jednostkowych także spad
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

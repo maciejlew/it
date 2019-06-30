@@ -36,3 +36,5 @@ Skrypty publikuję na licencji MIT - możesz je śmiało wykorzystać na swoim b
 [4]: https://github.com/maciejlew/sculpin-json-ld
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

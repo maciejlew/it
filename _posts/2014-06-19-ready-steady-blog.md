@@ -30,3 +30,5 @@ Jekyll, a widoczny tu szablon strony to zmodyfikowany szablon [block-log](https:
 
 Pierwsze wpisy już wkrótce...
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -174,3 +174,5 @@ raportów wygenerowanych przez uruchomione pomocnicze narzędzia.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

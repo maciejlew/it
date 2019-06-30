@@ -84,3 +84,5 @@ Przedstawiony kod można zobaczyć także w repozytorium aplikacji konkursowej
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

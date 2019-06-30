@@ -54,3 +54,5 @@ moich projektach. Więcej na ten temat można znaleźć na
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -109,3 +109,5 @@ wygodnego, rozwiązania za uniwersalną odpowiedź na każdy problem.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

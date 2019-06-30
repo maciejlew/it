@@ -82,3 +82,5 @@ frontem:
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -146,3 +146,5 @@ zaimplementowałem w podany wyżej sposób I18N.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

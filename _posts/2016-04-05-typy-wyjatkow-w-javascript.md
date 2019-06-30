@@ -133,3 +133,5 @@ bardziej adekwatne do kontekstu typy wyjątków**.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

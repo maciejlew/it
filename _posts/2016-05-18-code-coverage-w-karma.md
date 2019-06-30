@@ -109,3 +109,5 @@ kodu, oznaczając je symbolami *I (if path not taken)* lub *E (else path not tak
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

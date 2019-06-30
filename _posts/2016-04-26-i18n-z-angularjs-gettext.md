@@ -210,3 +210,5 @@ W razie problemów napisz komentarz - postaram się pomóc.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

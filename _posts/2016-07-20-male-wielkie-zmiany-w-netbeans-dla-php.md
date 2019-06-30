@@ -49,3 +49,5 @@ i inne zmiany [pobierając wersję *"nightly"* ze strony producenta][3].
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

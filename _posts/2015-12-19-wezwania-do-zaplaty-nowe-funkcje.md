@@ -30,3 +30,5 @@ były wystawione korekty;
 rozpoczęcia naliczania odsetek gdy wypada on w dniu ustawowo wolnym od pracy.
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -129,3 +129,5 @@ pozwolić nabrać im wiatru w skrzydła, nie powinni oni także obawiać się sz
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

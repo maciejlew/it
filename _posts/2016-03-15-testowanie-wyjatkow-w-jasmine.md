@@ -69,3 +69,5 @@ np. [test modelu dawki leku](https://github.com/maciejlew/drug-dose-framework/bl
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

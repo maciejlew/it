@@ -40,3 +40,5 @@ LMS](http://lists.lms.org.pl/mailman/listinfo/lms) - to w jakim kierunku pójdzi
 projekt może zależeć także od Ciebie!
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

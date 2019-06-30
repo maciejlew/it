@@ -97,3 +97,5 @@ o wyniku obliczeń lub o zaistniałym wyjątku.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

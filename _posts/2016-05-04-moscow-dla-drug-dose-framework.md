@@ -58,3 +58,5 @@ postępu prac nad projektem.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

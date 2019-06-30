@@ -132,3 +132,5 @@ wymaganie uznano za spełnione.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -51,3 +51,5 @@ Wszystkie szczegóły znajdziesz w pliku doc/ChangeLog w paczce z LMS, którą m
 [2]: https://github.com/lmsgit/lms
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

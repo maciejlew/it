@@ -27,3 +27,5 @@ zgłoszone propozycje do listy.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

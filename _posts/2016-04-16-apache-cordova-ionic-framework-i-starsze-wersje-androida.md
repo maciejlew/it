@@ -108,3 +108,5 @@ Przykładowy plik *config.xml* można znaleźć w [repozytorium DDF](https://git
 
 [1]: /2016/03/03/yeoman-idziemy-na-front.html
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

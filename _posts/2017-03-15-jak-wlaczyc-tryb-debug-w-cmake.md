@@ -101,3 +101,5 @@ debugowaniu ewentualnych problemów.
 
 [1]: http://lion.net.pl/2017/03/01/powtorka-z-rozrywki.html
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

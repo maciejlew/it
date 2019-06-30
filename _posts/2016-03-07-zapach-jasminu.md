@@ -50,3 +50,5 @@ Zobaczymy co przyniesie jutro.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

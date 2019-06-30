@@ -56,3 +56,5 @@ pobraną z pliku.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

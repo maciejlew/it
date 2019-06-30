@@ -103,3 +103,5 @@ przygotowane do debugowania aplikacji.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

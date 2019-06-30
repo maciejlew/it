@@ -100,3 +100,5 @@ związane z konkursem. Mam nadzieję że mój projekt Cię zainteresował i będ
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

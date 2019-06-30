@@ -82,3 +82,5 @@ Pokazane w tym wpisie przykłady są zaczerpnięte z [aplikacji DDS][2].
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

@@ -72,3 +72,5 @@ systemem plików na telefonie.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

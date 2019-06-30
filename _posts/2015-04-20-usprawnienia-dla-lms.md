@@ -40,3 +40,5 @@ Obecnie pracuję nad:
  * Lista kończących się umów, powiadamianie BOK o kończących się umowach;
  * Lista kończących się zobowiązań, powiadamianie BOK o kończących się zobowiązaniach.
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

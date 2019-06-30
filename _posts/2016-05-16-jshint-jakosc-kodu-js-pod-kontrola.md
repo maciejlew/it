@@ -214,3 +214,5 @@ perspektywie niż tylko do momentu gdy klient zapłaci fakturę.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

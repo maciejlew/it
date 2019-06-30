@@ -75,3 +75,5 @@ diagramów UML działanie aplikacji oraz dokończyć model.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

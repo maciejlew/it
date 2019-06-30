@@ -49,3 +49,5 @@ Poniżej zamieszczam kilka zrzutów ekranu pokazujących nową funkcjonalność 
 </div>
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

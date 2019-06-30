@@ -127,3 +127,5 @@ pracę** za nas.
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

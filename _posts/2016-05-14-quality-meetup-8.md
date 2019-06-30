@@ -81,3 +81,5 @@ warsztatach już 25 czerwca. Zapisy niebawem. Bądźcie czujni!
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

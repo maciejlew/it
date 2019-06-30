@@ -114,3 +114,5 @@ zarządzania konfiguracją zostały zastąpione i niebawem zostaną całkowicie 
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

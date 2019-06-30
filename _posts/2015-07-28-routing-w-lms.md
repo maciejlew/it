@@ -155,3 +155,5 @@ Podsumowując, routing w LMS przebiega następująco:
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

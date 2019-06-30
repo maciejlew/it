@@ -61,3 +61,5 @@ Zmiany w DDF można także śledzić w jego [repozytorium na GitHubie][4].
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

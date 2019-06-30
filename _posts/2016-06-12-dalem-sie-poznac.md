@@ -156,3 +156,5 @@ na bloga, [zapisujcie się na kanał RSS][11]!
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}

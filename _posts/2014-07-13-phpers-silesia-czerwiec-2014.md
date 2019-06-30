@@ -116,3 +116,5 @@ Mam nadzieję że spotkamy się na kolejnym PHPers Silesia!
 
 
 {% include acronyms.md %}
+
+{% include json-ld-page.md %}
