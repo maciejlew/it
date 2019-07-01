@@ -80,10 +80,10 @@ refraktoryzacji do typów prostych kod wygląda bardziej czytelnie, jest go tak�
 dużo mniej. Ilość przypadków testowych dla testów jednostkowych także spada.
 Łatwiej jest zadbać o dobre [pokrycie kodu testami][4].
 
-[1]: /2016/04/05/typy-wyjatkow-w-javascript.html
-[2]: /2016/05/16/jshint-jakosc-kodu-js-pod-kontrola.html
+[1]: /it/2016/04/05/typy-wyjatkow-w-javascript.html
+[2]: /it/2016/05/16/jshint-jakosc-kodu-js-pod-kontrola.html
 [3]: https://github.com/maciejlew/drug-dose-framework
-[4]: /2016/05/18/code-coverage-w-karma.html
+[4]: /it/2016/05/18/code-coverage-w-karma.html
 
 
 {% include acronyms.md %}

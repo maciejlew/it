@@ -149,10 +149,10 @@ na bloga, [zapisujcie się na kanał RSS][11]!
 [7]: http://macieklesiczka.github.io/
 [8]: http://ankieta.dajsiepoznac.pl/
 [9]: blog/tags/#DSP2016
-[10]: /2014/06/19/ready-steady-blog.html
+[10]: /it/2014/06/19/ready-steady-blog.html
 [11]: blog/feed.xml
-[12]: /2016/05/30/raport-3-z-prac-nad-ddf.html
-[13]: /2016/03/01/dam-sie-poznac.html
+[12]: /it/2016/05/30/raport-3-z-prac-nad-ddf.html
+[13]: /it/2016/03/01/dam-sie-poznac.html
 
 
 {% include acronyms.md %}

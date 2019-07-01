@@ -97,9 +97,9 @@ aplikacje na urządzenia mobilne. Mimo wszystko, **warto jednak mieć w miarę a
 OS**, aby móc w pełni wykorzystać możliwości jakie dają nam biblioteki i narzędzia
 przygotowane do debugowania aplikacji.
 
-[1]: /2016/04/16/apache-cordova-ionic-framework-i-starsze-wersje-androida.html
-[2]: /2016/05/04/moscow-dla-drug-dose-framework.html
-[3]: /2016/05/18/code-coverage-w-karma.html
+[1]: /it/2016/04/16/apache-cordova-ionic-framework-i-starsze-wersje-androida.html
+[2]: /it/2016/05/04/moscow-dla-drug-dose-framework.html
+[3]: /it/2016/05/18/code-coverage-w-karma.html
 
 
 {% include acronyms.md %}

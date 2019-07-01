@@ -51,7 +51,7 @@ kciuki.
 
 
 
-[1]: /2016/05/30/raport-3-z-prac-nad-ddf.html
+[1]: /it/2016/05/30/raport-3-z-prac-nad-ddf.html
 [2]: http://uczestnicy.dajsiepoznac.pl/profil/maciej-lew
 [3]: blog/tags/#DSP2017
 [4]: https://github.com/maciejlew/drug-dose-server

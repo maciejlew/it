@@ -74,7 +74,7 @@ najpopularniejsze darmowe cykliczne wydarzenie w okolicy, czyli [Quality Excites
 Tym razem będziemy mogli się spotkać i posłuchać prelekcji bądź wziąć udział w
 warsztatach już 25 czerwca. Zapisy niebawem. Bądźcie czujni!
 
-[1]: /2016/02/13/quality-meetup-7.html
+[1]: /it/2016/02/13/quality-meetup-7.html
 [2]: http://www.slideshare.net/FutureProcessing/micha-stryjak-poznaj-contextdriven-testing
 [3]: http://www.slideshare.net/FutureProcessing/micha-sajdak-testy-bezpieczestwa-teoria-a-praktyka
 [4]: https://qualityexcites.pl/

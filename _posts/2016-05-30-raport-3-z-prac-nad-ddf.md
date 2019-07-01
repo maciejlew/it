@@ -140,16 +140,16 @@ Aplikacja będzie dalej rozwijana. W moim wolnym czasie
 postaram się dodać kolejne funkcjonalności. Czekam także na opinie użytkowników
 i pomysły na dalszy rozwój DDF!
 
-[1]: /2016/05/28/szewc-ze-starym-smartfonem-chodzi.html
-[2]: /2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
-[3]: /2016/04/26/i18n-z-angularjs-gettext.html
-[4]: /2016/05/26/ikony-i-splash-screen-aplikacji-w-ionic-framework.html
-[5]: /2016/04/14/raport-2-z-prac-nad-ddf.html
-[6]: /2016/04/19/powiadomienia-w-ionic-framework.html
-[7]: /2016/05/10/zmiana-jezyka-on-the-fly-w-ionic-i-angular-gettext.html
-[8]: /2016/05/18/code-coverage-w-karma.html
+[1]: /it/2016/05/28/szewc-ze-starym-smartfonem-chodzi.html
+[2]: /it/2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
+[3]: /it/2016/04/26/i18n-z-angularjs-gettext.html
+[4]: /it/2016/05/26/ikony-i-splash-screen-aplikacji-w-ionic-framework.html
+[5]: /it/2016/04/14/raport-2-z-prac-nad-ddf.html
+[6]: /it/2016/04/19/powiadomienia-w-ionic-framework.html
+[7]: /it/2016/05/10/zmiana-jezyka-on-the-fly-w-ionic-i-angular-gettext.html
+[8]: /it/2016/05/18/code-coverage-w-karma.html
 [9]: https://github.com/maciejlew/drug-dose-framework/releases/tag/v0.3.0
-[10]: /2016/03/12/format-opisu-lekow-w-ddf.html
+[10]: /it/2016/03/12/format-opisu-lekow-w-ddf.html
 [11]: img/DSP2016/ddf-code-coverage-1.png
 [12]: img/DSP2016/icon.png
 

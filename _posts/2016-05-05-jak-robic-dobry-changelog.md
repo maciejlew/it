@@ -71,7 +71,7 @@ chwil. Zwróci Ci się to!
 
 [1]: http://keepachangelog.com/
 [2]: http://semver.org/
-[3]: /2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
+[3]: /it/2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
 
 
 {% include acronyms.md %}

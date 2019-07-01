@@ -357,8 +357,8 @@ Zobacz także:
  * [EmguCVDemo - aplikacja testująca wpływ wybranych filtrów na wyniki segmentacji wododziałowej][1]
  * [Wpływ wstępnej filtracji na segmentację wododziałową][2]
 
-[1]: /2016/07/24/emgucvdemo-aplikacja-testujaca-wplyw-wybranych-filtrow-na-wyniki-segmentacji-wododzialowej.html
-[2]: /2016/08/06/wplyw-wstepnej-filtracji-na-segmentacje-wododzialowa.html
+[1]: /it/2016/07/24/emgucvdemo-aplikacja-testujaca-wplyw-wybranych-filtrow-na-wyniki-segmentacji-wododzialowej.html
+[2]: /it/2016/08/06/wplyw-wstepnej-filtracji-na-segmentacje-wododzialowa.html
 
 
 

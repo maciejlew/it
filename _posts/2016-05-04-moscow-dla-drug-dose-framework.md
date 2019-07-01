@@ -54,7 +54,7 @@ zrobione, a co jest do zrobienia w najbliższym czasie. Oznaczanie zrealizowanyc
 zadań numerami wersji w których zmiany te zostały wydane pomaga w szybkim przeglądzie
 postępu prac nad projektem.
 
-[1]: /2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
+[1]: /it/2016/04/29/podroz-na-wschod-roadmap-z-moscow.html
 
 
 {% include acronyms.md %}

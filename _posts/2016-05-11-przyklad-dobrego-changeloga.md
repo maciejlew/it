@@ -54,9 +54,9 @@ opisane w dokumencie MoSCoW][3] czyli wsparcie dla I18N.
 
 Zmiany w DDF można także śledzić w jego [repozytorium na GitHubie][4].
 
-[1]: /2016/05/05/jak-robic-dobry-changelog.html
+[1]: /it/2016/05/05/jak-robic-dobry-changelog.html
 [2]: http://semver.org/
-[3]: /2016/05/04/moscow-dla-drug-dose-framework.html
+[3]: /it/2016/05/04/moscow-dla-drug-dose-framework.html
 [4]: https://github.com/maciejlew/drug-dose-framework
 
 

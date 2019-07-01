@@ -136,8 +136,8 @@ Zobacz także:
  * [Wpływ wstępnej filtracji na segmentację wododziałową][2]
 
 
-[1]: /2016/07/03/przeksztalcenia-morfologiczne-kontekstowe-i-rozmyte.html
-[2]: /2016/08/06/wplyw-wstepnej-filtracji-na-segmentacje-wododzialowa.html
+[1]: /it/2016/07/03/przeksztalcenia-morfologiczne-kontekstowe-i-rozmyte.html
+[2]: /it/2016/08/06/wplyw-wstepnej-filtracji-na-segmentacje-wododzialowa.html
 {% include acronyms.md %}
 
 {% include json-ld-page.md %}

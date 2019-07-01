@@ -1149,8 +1149,8 @@ Zobacz także:
  * [EmguCVDemo - aplikacja testująca wpływ wybranych filtrów na wyniki segmentacji wododziałowej][3]
 
 [1]: https://www.flickr.com/photos/bc_the_path/3234972460/
-[2]: /2016/07/03/przeksztalcenia-morfologiczne-kontekstowe-i-rozmyte.html
-[3]: /2016/07/24/emgucvdemo-aplikacja-testujaca-wplyw-wybranych-filtrow-na-wyniki-segmentacji-wododzialowej.html
+[2]: /it/2016/07/03/przeksztalcenia-morfologiczne-kontekstowe-i-rozmyte.html
+[3]: /it/2016/07/24/emgucvdemo-aplikacja-testujaca-wplyw-wybranych-filtrow-na-wyniki-segmentacji-wododzialowej.html
 
 
 

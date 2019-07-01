@@ -62,8 +62,8 @@ filtra *translate***:
 Problem ten był już [zgłaszany][4] opiekunom biblioteki angular-gettext i czeka 
 na rozwiązanie.
     
-[1]: /2016/03/01/dam-sie-poznac.html
-[2]: /2016/04/26/i18n-z-angularjs-gettext.html
+[1]: /it/2016/03/01/dam-sie-poznac.html
+[2]: /it/2016/04/26/i18n-z-angularjs-gettext.html
 [3]: https://angular-gettext.rocketeer.be/dev-guide/custom-annotations/
 [4]: https://github.com/rubenv/angular-gettext/issues/226
 

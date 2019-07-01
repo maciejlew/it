@@ -140,7 +140,7 @@ zaimplementowałem w podany wyżej sposób I18N.
 
 
 
-[1]: /2016/04/26/i18n-z-angularjs-gettext.html
+[1]: /it/2016/04/26/i18n-z-angularjs-gettext.html
 [2]: http://ionicframework.com/docs/api/directive/ionNavView/
 [3]: https://github.com/maciejlew/drug-dose-framework
 

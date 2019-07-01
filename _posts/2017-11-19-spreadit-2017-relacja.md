@@ -62,7 +62,7 @@ Ostatnia prezentacja w której miałem przyjemność uczestniczyć dotyczyła mo
 
 Tegoroczna, 5-ta edycja SpreadIT, odbyła się z wielka pompą. 35 prelekcji, 3 ścieżki tematyczne, znani i doświadczeni prelegenci zrobili swoje. Organizatorzy stanęli na wysokości zadania. Konferencję uznaję za udaną także i dla mnie. Nie mogłem uczestniczyć we wszystkich prelekcjach, ale i tak wyniosłem z tego wydarzenie wiele nowych pomysłów, które zamierzam zrealizować we własnych projektach. Warto poświęcić te kilka godzin, zarówno gdy dopiero zaczynamy nasza przygodę z IT, jak i wtedy gdy siedzimy w tym biznesie od lat. Do zobaczenia za rok!
 
-[1]: /2016/11/20/spreadit-2016-relacja.html
+[1]: /it/2016/11/20/spreadit-2016-relacja.html
 [2]: https://en.wikipedia.org/wiki/Event_storming
 [3]: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 

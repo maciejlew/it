@@ -207,9 +207,9 @@ perspektywie niż tylko do momentu gdy klient zapłaci fakturę.
 
 [1]: http://jshint.com
 [2]: http://jshint.com/docs/options/
-[3]: /2016/04/26/i18n-z-angularjs-gettext.html
-[4]: /2016/03/03/yeoman-idziemy-na-front.html
-[5]: /2016/03/07/zapach-jasminu.html
+[3]: /it/2016/04/26/i18n-z-angularjs-gettext.html
+[4]: /it/2016/03/03/yeoman-idziemy-na-front.html
+[5]: /it/2016/03/07/zapach-jasminu.html
 [6]: https://github.com/jshint/jshint
 
 

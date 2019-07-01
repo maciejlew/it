@@ -46,7 +46,7 @@ kolejne pozycje w sekwencji zaślepek.
 
 Pokazane w tym wpisie przykłady są zaczerpnięte z [aplikacji DDS][2].
 
-[1]: /2017/03/30/pistache-i-rapidjson-czytanie-danych-z-pliku.html
+[1]: /it/2017/03/30/pistache-i-rapidjson-czytanie-danych-z-pliku.html
 [2]: https://github.com/maciejlew/drug-dose-server
 
 

@@ -51,7 +51,7 @@ rzeźbienia w JSON.
 W kolejnych wpisach postaram się pokazać jak przesłać odpowiedź w formacie JSON
 pobraną z pliku.
 
-[1]: /2017/03/25/front-controller-w-pistache.html
+[1]: /it/2017/03/25/front-controller-w-pistache.html
 
 
 
