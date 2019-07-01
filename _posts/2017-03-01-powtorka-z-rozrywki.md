@@ -45,16 +45,14 @@ ze mną podczas konkursu.
 
 #### Piaskownica
 
-Projekt możecie śledzić przeglądając tego bloga, a zwłaszcza [kategorię 
-DSP2017][3]. Źródła aplikacji będą dostępne na [GitHubie][4]. Trzymajcie 
+Projekt możecie śledzić przeglądając tego bloga. Źródła aplikacji będą dostępne na [GitHubie][3]. Trzymajcie 
 kciuki.
 
 
 
 [1]: /it/2016/05/30/raport-3-z-prac-nad-ddf.html
 [2]: http://uczestnicy.dajsiepoznac.pl/profil/maciej-lew
-[3]: blog/tags/#DSP2017
-[4]: https://github.com/maciejlew/drug-dose-server
+[3]: https://github.com/maciejlew/drug-dose-server
 
 {% include acronyms.md %}
 

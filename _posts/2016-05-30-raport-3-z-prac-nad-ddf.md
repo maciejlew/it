@@ -150,8 +150,8 @@ i pomysły na dalszy rozwój DDF!
 [8]: /it/2016/05/18/code-coverage-w-karma.html
 [9]: https://github.com/maciejlew/drug-dose-framework/releases/tag/v0.3.0
 [10]: /it/2016/03/12/format-opisu-lekow-w-ddf.html
-[11]: img/DSP2016/ddf-code-coverage-1.png
-[12]: img/DSP2016/icon.png
+[11]: /it/assets/img/DSP2016/ddf-code-coverage-1.png
+[12]: /it/assets/img/DSP2016/icon.png
 
 
 {% include acronyms.md %}

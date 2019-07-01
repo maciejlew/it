@@ -71,7 +71,7 @@ Pozostaje teraz czekać na [wyniki ankiety kolejnej ankiety][8].
 ### Mój blog
 
 Konkurs miał duży pozytywny wpływ na ten blog. **Udało mi się przez 3 miesiące 
-napisać 28 postów** z czego [27 było postami konkursowymi][9]. **Napisałem
+napisać 28 postów** z czego 27 było postami konkursowymi. **Napisałem
 w sumie aż 13525 słów** co daje średnio 500 słów na post. Dawno się tak nie rozpisywałem.
 Ogólnie jestem bardzo zadowolony z merytorycznej wartości każdego z opublikowanych
 postów. Ich przygotowanie kosztowało mnie trochę czasu, ale jest to dobrze
@@ -148,9 +148,8 @@ na bloga, [zapisujcie się na kanał RSS][11]!
 [6]: http://jsdn.pl
 [7]: http://macieklesiczka.github.io/
 [8]: http://ankieta.dajsiepoznac.pl/
-[9]: blog/tags/#DSP2016
 [10]: /it/2014/06/19/ready-steady-blog.html
-[11]: blog/feed.xml
+[11]: /it/feed.xml
 [12]: /it/2016/05/30/raport-3-z-prac-nad-ddf.html
 [13]: /it/2016/03/01/dam-sie-poznac.html
 

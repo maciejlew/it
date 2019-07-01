@@ -103,9 +103,9 @@ kodu, oznaczając je symbolami *I (if path not taken)* lub *E (else path not tak
 
 
 [1]: /it/2016/03/03/yeoman-idziemy-na-front.html
-[2]: img/DSP2016/karma-code-coverage-1.png
-[3]: img/DSP2016/karma-code-coverage-2.png
-[4]: img/DSP2016/karma-code-coverage-3.png
+[2]: /it/assets/img/DSP2016/karma-code-coverage-1.png
+[3]: /it/assets/img/DSP2016/karma-code-coverage-2.png
+[4]: /it/assets/img/DSP2016/karma-code-coverage-3.png
 
 
 {% include acronyms.md %}
