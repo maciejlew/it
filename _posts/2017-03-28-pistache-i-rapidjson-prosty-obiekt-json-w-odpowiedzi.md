@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/20/analiza-wymagan-dla-serwera-dawek-lekow/"
 ---
 
 Zdecydowałem się wykorzystać bibliotekę RapidJSON w mojej aplikacji DDS. Kilka 

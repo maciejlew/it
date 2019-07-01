@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/04/15/silnik-zarzadzania-konfiguracja-aplikacji-w-c++/"
 ---
 
 Rozbudowane aplikacje potrzebują funkcji pozwalających je konfigurować. Jak zrobić

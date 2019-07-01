@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/04/14/pistache-i-rapidjson-pliki-statyczne/"
 ---
 
 Zastanawiasz się jak serwować pliki statyczne w Pistache? To banalnie proste!

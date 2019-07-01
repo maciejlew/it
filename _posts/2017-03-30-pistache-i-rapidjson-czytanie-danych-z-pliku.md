@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/30/pistache-i-rapidjson-czytanie-danych-z-pliku/"
 ---
 
 [Zapowiadałem][1], że pokażę jak wczytać przy pomocy RapidJSON dane z pliku i odesłać

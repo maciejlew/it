@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/30/pistache-i-rapidjson-przekazywanie-zmiennych-w-url/"
 ---
 
 Po przykładzie, w którym pokazałem [jak odczytać plik i przesłać jego zawartość

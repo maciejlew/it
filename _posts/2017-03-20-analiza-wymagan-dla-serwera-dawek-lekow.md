@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/20/analiza-wymagan-dla-serwera-dawek-lekow/"
 ---
 
 Po wyborze technologii w jakiej rozwijany będzie DDS przyszedł czas na zastanowienie

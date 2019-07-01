@@ -5,7 +5,6 @@ date: '2017-02-13 20:00:00'
 description: 'Opis systemu zarządzania dokumentami w LMS'
 keywords: lms, lan management system, dokumenty, umowy, aneksy, regulaminy, książeczki opłat, wezwania do zapłaty, protokoły przekazywania sprzętu, protokoły zdawczo-odbiorcze
 tags: LMS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/02/08/dokumenty-w-lan-management-system/"
 ---
 
 System zarządzania przedsiębiorstwem, jakim jest LAN Management System, 

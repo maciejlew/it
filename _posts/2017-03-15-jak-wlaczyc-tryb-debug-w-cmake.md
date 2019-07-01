@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - DDS
 - C++
-img_hosting: "http:/interpc.pl/~mlewinterpc/lion.net.pl/2017/03/14/pistacja/"
 ---
 
 W tym krótkim wpisie pokażę jak włączyć tryb debug podczas wykonywania Makefile

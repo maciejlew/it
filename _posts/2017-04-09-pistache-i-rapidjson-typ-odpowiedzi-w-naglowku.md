@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/30/pistache-i-rapidjson-typ-odpowiedzi-w-naglowku/"
 ---
 
 Po przeczytaniu poprzednich postów wiesz już jak zwrócić w Pistache odpowiedź w

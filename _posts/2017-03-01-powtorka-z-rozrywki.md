@@ -8,7 +8,6 @@ tags:
 - DSP2017
 - C++
 - DDS
-img_hosting: "http://interpc.pl/~mlewinterpc/lion.net.pl/2017/03/01/powtorka-z-rozrywki/"
 ---
 
 Równo rok temu informowałem Was o moim udziale w konkursie "Daj się 
