@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quality Excites 2016"
+title: "Quality Excites 2018"
 date: "2018-06-23 13:10:00"
 description: Relacja z siódmej edycji konferencji dla zainteresowanych tworzeniem oprogramowania wysokiej jakości
 keywords: quality excites, testowanie, zawód testera, automatyzacja testów, digitalizacja
