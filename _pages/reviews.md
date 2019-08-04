@@ -1,7 +1,7 @@
 ---
 layout: reviews
 title: Recenzje
-permalink: /recenzje
+permalink: /recenzje.html
 ---
 
 Recenzje ksiażek.

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mapa
+permalink: /mapa.html
 title: "Mapa strony"
 description: "Mapa strony IT LionNet"
 keywords: programowanie webowe, programista PHP, platformy VoIP, blog informatyczny
@@ -95,5 +95,5 @@ use:
    * [PHPers Silesia czerwiec 2014](/it/2014/07/13/phpers-silesia-czerwiec-2014.html)
    * [Industriada 2014 - wystawa zabytkowych komputerów - fotorelacja](/it/2014/06/30/industriada-2014-wystawa-zabytkowych-komputerow.html)
    * [Ready, steady, blog](/it/2014/06/19/ready-steady-blog.html)
- * [O IT LionNet](/o-stronie/)
- * [Mapa strony](/mapa/)
+ * [O IT LionNet](/o-stronie.html)
+ * [Mapa strony](/mapa.html)
